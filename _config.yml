@@ -5,7 +5,8 @@ header-img: img/post-bg-desk.jpg
 email: eewc@mail.scut.edu.cn
 description: "Hi"
 keyword: "Anything I Want"
-url: "http://JOJO-wc-rabbit.github.io"          # your host, for absolute URL
+#url: "http://JOJO-wc-rabbit.github.io"          # your host, for absolute URL
+url: "http://wc-blog.com" 
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/JOJO-wc-rabbit/JOJO-wc-rabbit.github.io.git" # you code repository
 
