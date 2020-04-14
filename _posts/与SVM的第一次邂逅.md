@@ -1,3 +1,5 @@
+```bash
+---
 layout:     post
 title:      与 SVM 的第一次邂逅
 subtitle:   春天的一次组会
@@ -5,9 +7,11 @@ date:       2020-04-14
 author:     WC
 header-img: img/svm-back.jpg
 catalog: true
-tags:
-
+tags:                               #标签
     - machine learning
+---
+
+```
 
 # 与 SVM 的第一次邂逅
 
