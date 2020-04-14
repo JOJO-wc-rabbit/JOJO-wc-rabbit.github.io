@@ -1,9 +1,9 @@
 # Site settings
-title: WelCome
+title: WC.blog
 SEOTitle: 王川的博客 | WC Blog
 header-img: img/summit.jpg
 email: eewc@mail.scut.edu.cn
-description: There is no easy summit.
+description: "There is no easy summit."
 keyword: Anything I Want.
 url: "http://JOJO-wc-rabbit.github.io"          # your host, for absolute URL
 # url: "http://wc-blog.com" 
