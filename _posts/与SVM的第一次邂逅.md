@@ -1,4 +1,3 @@
-```bash
 ---
 layout:     post
 title:      与 SVM 的第一次邂逅
@@ -11,7 +10,6 @@ tags:                               #标签
     - machine learning
 ---
 
-```
 
 # 与 SVM 的第一次邂逅
 
