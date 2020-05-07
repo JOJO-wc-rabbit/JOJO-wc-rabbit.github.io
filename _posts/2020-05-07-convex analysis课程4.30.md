@@ -15,8 +15,9 @@ tags:                               #标签
 
 - ## 线性子空间
 
+设`$W$`为空间`$R$`的子集，记为`$W$` $`\subseteq`$ `$R^n$`.若对任意向量$x,y\in W$以及任意$\alpha \in R$总有$x+y \in W$及$\alpha x \in W$成立，则称$W$为线性子空间（subspace）.若$W$可表示为
 
-设$W$为空间$R$的子集，记为$W$ $\subseteq$ $R^n$.若对任意向量$x,y\in W$以及任意$\alpha \in R$总有$x+y \in W$及$\alpha x \in W$成立，则称$W$为线性子空间（subspace）.若$W$可表示为
+
 $$
 W = \{x \in R^n|x=\alpha_1x^1+···\alpha_kx^k,\alpha_1 \in R,···,\alpha_k \in R\}
 $$
