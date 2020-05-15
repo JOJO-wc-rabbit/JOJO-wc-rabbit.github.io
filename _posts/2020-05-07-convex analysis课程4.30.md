@@ -45,6 +45,7 @@ A set $$C \in R^n$$is affine if the line through any two distinct points in $$C$
 - ## 仿射集例子
 
 仿射集的例子：
+
 1.空集、单点集、直线、平面、$$R^n$$；
 
 2.线性子空间（零点一定在内）;
