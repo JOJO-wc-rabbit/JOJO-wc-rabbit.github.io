@@ -15,7 +15,7 @@ tags:                               #标签
 
 - ## 线性子空间
 
-设$$W$$为空间$$R$$的子集，记为$$W$$$$\subseteq$$ $$R^n$$.若对任意向量$$x,y\in W$$以及任意$$\alpha \in R$$总有$x+y \in W$及$$\alpha x \in W$$成立，则称$$W$$为线性子空间（subspace）.若$$W$$可表示为
+设$$W$$为空间$$R$$的子集，记为$$W$$$$\subseteq$$ $$R^n$$.若对任意向量$$x,y\in W$$以及任意$$\alpha \in R$$总有$$x+y \in W$$及$$\alpha x \in W$$成立，则称$$W$$为线性子空间（subspace）.若$$W$$可表示为
 
 
 
@@ -45,13 +45,17 @@ A set $$C \in R^n$$is affine if the line through any two distinct points in $$C$
 - ## 仿射集例子
 
 仿射集的例子：
-1.空集、单点集、直线、平面、$R^n$；
+1.空集、单点集、直线、平面、$$R^n$$；
 
 2.线性子空间（零点一定在内）;
 
-3.线性方程组的解集$$\{x| Ax=b\}$$（Solution set of linear equations$$\{x|Ax=b\}$$）；
+3.线性方程组的解集
 
-4.超平面$$\{x|a^T x = \beta\}$$。
+$$\{x| Ax=b\}$$（Solution set of linear equations$$\{x|Ax=b\}$$）；
+
+4.超平面
+
+$$\{x|a^T x = \beta\}$$。
 
 - ## 仿射组合
 
