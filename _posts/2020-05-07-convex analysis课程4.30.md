@@ -49,13 +49,21 @@ A set $$C \in R^n$$is affine if the line through any two distinct points in $$C$
 
 2.线性子空间（零点一定在内）;
 
-3.线性方程组的解集
+3.线性方程组的解集:
 
-$$\{x| Ax=b\}$$（Solution set of linear equations$$\{x|Ax=b\}$$）；
 
-4.超平面
+$$
+\{x| Ax=b\}（Solution set of linear equations\{x|Ax=b\};
+$$
 
-$$\{x|a^T x = \beta\}$$。
+
+4.超平面:
+
+
+$$
+\{x|a^T x = \beta\}
+$$
+
 
 - ## 仿射组合
 
@@ -94,7 +102,13 @@ $$
 
 2.仿射集；
 
-3.半空间$$\{x|a^T x \le \beta\}$$、$$\{x|a^T x < \beta\}$$；
+3.半空间
+
+
+$$
+\{x|a^T x \le \beta\}、\{x|a^T x < \beta\}；
+$$
+
 
 4.任意范数下的球:
 
